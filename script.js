@@ -14,7 +14,7 @@ function zodiac(){
     if((dia>=22 && mes==5) || (dia<=21 && mes==6)){
         document.getElementById('Imagenes').src="./Geminis.png"
     }
-    if((dia>=22 && mes==5) || (dia<=22 && mes==7)){
+    if((dia>=22 && mes==6) || (dia<=22 && mes==7)){
         document.getElementById('Imagenes').src="./Cancer.png"
     }
     if((dia>=23 && mes==7)||(dia<=23 && mes==8)){
